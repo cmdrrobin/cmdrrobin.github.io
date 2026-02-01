@@ -1,44 +1,23 @@
-import type { Site, SocialObjects } from "./types";
-
-export const SITE: Site = {
-  website: "https://nieuweavonturenvan.nl",
+export const SITE = {
+  website: "https://nieuweavonturenvan.nl", // replace this with your deployed domain
   author: "Robin Gruyters",
-  desc: "Mijn persoonlijk blog site",
+  profile: "https://github.com/cmdrrobin",
+  desc: "Mijn persoonlijk website",
   title: "Nieuwe Avonturen Van",
   ogImage: "banner.jpg",
   lightAndDarkMode: true,
+  postPerIndex: 4,
   postPerPage: 3,
-};
-
-export const LOCALE = {
+  scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
+  showArchives: true,
+  showBackButton: true, // show back button in post detail
+  editPost: {
+    enabled: false,
+    text: "Edit page",
+    url: "https://github.com/cmdrrobin/cmdrrobin.github.io/edit/main/",
+  },
+  dynamicOgImage: true,
+  dir: "ltr", // "rtl" | "auto"
   lang: "nl", // html lang code. Set this empty and default will be "en"
-  langTag: ["nl-NL"], // BCP 47 Language Tags. Set this empty [] to use the environment default
+  timezone: "Europe/Amsterdam", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 } as const;
-
-export const LOGO_IMAGE = {
-  enable: false,
-  svg: true,
-  width: 216,
-  height: 46,
-};
-
-export const SOCIALS: SocialObjects = [
-  {
-    name: "Github",
-    href: "https://github.com/cmdrrobin",
-    linkTitle: ` ${SITE.title} on Github`,
-    active: true,
-  },
-  {
-    name: "LinkedIn",
-    href: "https://linked.in/in/rgruyters",
-    linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
-  },
-  {
-    name: "YouTube",
-    href: "https://www.youtube.com/@commandantkeen",
-    linkTitle: `${SITE.title} on YouTube`,
-    active: false,
-  },
-];
