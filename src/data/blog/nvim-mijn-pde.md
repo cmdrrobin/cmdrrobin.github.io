@@ -2,7 +2,7 @@
 pubDatetime: 2023-01-16T19:44:27+1
 title: Neovim, mijn PDE
 slug: neovim-mijn-pde
-featured: true
+featured: false
 draft: false
 tags:
   - neovim

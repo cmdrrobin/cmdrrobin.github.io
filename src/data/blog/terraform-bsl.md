@@ -3,7 +3,7 @@ author: Robin Gruyters
 pubDatetime: 2023-08-28T20:39:51+1
 title: Terraform BS(L)
 slug: terraform-bs-licentie
-featured: true
+featured: false
 draft: false
 tags:
   - Terraform
