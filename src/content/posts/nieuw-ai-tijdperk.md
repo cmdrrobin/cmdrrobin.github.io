@@ -1,9 +1,8 @@
 ---
 author: Robin Gruyters
 pubDatetime: 2026-05-29T14:18:00+01:00
-modDatetime: 2026-05-30T08:37:00+01:00
-title: Nieuwe (AI) Tijdperk
-slug: nieuwe-ai-tijdperk
+title: Nieuw (AI) Tijdperk
+slug: nieuw-ai-tijdperk
 featured: true
 draft: false
 tags:
