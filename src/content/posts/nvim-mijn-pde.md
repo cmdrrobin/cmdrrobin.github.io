@@ -63,7 +63,7 @@ het nog steeds de standaard Vimscripting van Vim zelf. Dit maakt het soms
 makkelijker en beter om Vim uit te breiden met functionaliteiten. Het is geen
 nieuwe tool, maar een verlenging van de standaard.
 
-![plugins bijwerken via Neovim](/plugins-bijwerken-via-neovim.png)
+![plugins bijwerken via Neovim](@/assets/images/plugins-bijwerken-via-neovim.png)
 
 Met Lua ondersteuning was het redelijk makkelijk om extra functies toe te voegen
 aan mijn Neovim config. Nadeel was wel dat sommige wijzigingen weer in de weg
