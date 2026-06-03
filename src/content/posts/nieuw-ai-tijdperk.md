@@ -1,6 +1,7 @@
 ---
 author: Robin Gruyters
 pubDatetime: 2026-05-29T14:18:00+01:00
+modDatetime: 2026-06-03T14:27:31+01:00
 title: Nieuw (AI) Tijdperk
 slug: nieuw-ai-tijdperk
 featured: true
@@ -10,30 +11,59 @@ tags:
 description: Al enige tijd ben ik aan het bedenken of ik hierover een blog moet gaan schrijven. We zitten er met z'n allen middenin en het verandert (bijna) elke minuut. Toch denk ik dat dit de start is van een nieuwe ontwikkeling van de mensheid en de manier waarop wij tegen de wereld aankijken.
 ---
 
-Al enige tijd ben ik aan het bedenken of ik hierover een blog moet gaan schrijven. We zitten er met z'n allen middenin en het verandert (bijna) elke minuut. Toch denk ik dat dit de start is van een nieuwe ontwikkeling van de mensheid en de manier waarop wij tegen de wereld aankijken.
+Al enige tijd vraag ik me af of ik hierover een blog moet schrijven. We zitten er met z'n allen middenin en de ontwikkelingen veranderen bijna elke minuut. Toch denk ik dat dit de start is van een nieuwe fase in de evolutie van de mensheid en de manier waarop wij naar de wereld kijken.
 
-In mijn leven heb ik tot nu toe twee grote veranderingen meegemaakt: de overgang van vaste telefonie naar mobiel en de start van het internettijdperk.
+In mijn leven heb ik tot nu toe twee grote kantelpunten meegemaakt: de overgang van vaste naar mobiele telefonie en de start van het internettijdperk.
 
-Je zou de overgang van lp naar cd, van walkman naar discman, of de opkomst van de smartphone ook als grote veranderingen kunnen zien. Ja, ze hebben allemaal wel wat teweeggebracht, maar persoonlijk denk ik dat de start van mobiele telefonie en het internet de twee grootste zijn.
+Natuurlijk zou je de overgang van LP naar CD, van walkman naar discman, of de opkomst van de smartphone ook als grote veranderingen kunnen zien. Hoewel die allemaal veel teweeg hebben gebracht, denk ik dat de start van mobiele telefonie en het internet persoonlijk de twee grootste impact hebben gehad.
 
-En nu denk ik dat we weer een nieuw tijdperk ingaan: dat van Kunstmatige Intelligentie, oftewel AI. AI lijkt voor veel mensen de oplossing voor heel veel zaken, maar aan de andere kant zijn er ook mensen bang voor wat er mogelijk te gebeuren staat. Als AI een groot deel van ons denk- en werkvermogen gaat overnemen, worden wij straks dan gestuurd door computers in plaats van dat wij de computers besturen?
+En nu gaan we weer een nieuw tijdperk in: dat van Kunstmatige Intelligentie, oftewel AI. Voor veel mensen lijkt AI de ultieme oplossing voor talloze vraagstukken. Aan de andere kant is er ook angst voor wat ons te wachten staat. Als AI een groot deel van ons denk- en werkvermogen overneemt, worden wij straks dan gestuurd door computers in plaats van dat wij hen besturen?
 
-Worden wij als mensheid straks dommer omdat AI veel van ons denkwerk overneemt? Wat gaat dat betekenen voor onze kinderen en kleinkinderen? Persoonlijk denk ik dat AI ook goede dingen teweeg zal brengen, zoals bij onderzoek naar verschillende soorten kanker en andere ziektes. Zaken waar wij als mens jaren over doen, kan AI mogelijk in veel kortere tijd doen, zodat er meer tijd vrijkomt voor ander onderzoek.
+Worden we als mensheid dommer omdat AI het denkwerk van ons overneemt? Wat betekent dit voor onze kinderen en kleinkinderen? Persoonlijk geloof ik dat AI ook fantastische dingen zal brengen, bijvoorbeeld bij het onderzoek naar verschillende vormen van kanker en andere ziektes. Zaken waar wij als mens jaren over doen, kan AI in een fractie van de tijd bereiken. Hierdoor komt er kostbare tijd vrij voor ander essentieel onderzoek.
 
-Ook voor mensen die doof of slechtziend zijn, kan AI de oplossing zijn om beter te functioneren in deze wereld. Maar los daarvan zie ik vooral nu de mindere kanten van AI, zeker op het gebied van ICT.
+Ook voor mensen met een auditieve of visuele beperking kan AI een enorme uitkomst zijn om beter te functioneren in de maatschappij. Maar los van die mooie kansen, zie ik op dit moment vooral de schaduwzijden van AI, zéker binnen de ICT.
 
-Je ziet nu al veel klachten van verschillende partijen die de overvloed aan informatie (denk aan issues, pull requests, e.d.) gewoon niet meer aankunnen. Ze vinden het moeilijk om tijd en energie te steken in het controleren of de aangeleverde informatie wel correct is voordat ze deze implementeren in hun applicatie.
+Je ziet nu al veel partijen klagen dat ze de overvloed aan informatie ,(denk aan de stortvloed aan issues en pull requests), simpelweg niet meer kunnen bolwerken. Men vindt het lastig om de tijd en energie op te brengen om te controleren of de aangeleverde informatie wel correct is, voordat deze in een applicatie wordt geïmplementeerd.
 
-Daarnaast zie je steeds meer mensen die aan het 'Vibe Coden' zijn. Dat wil zeggen dat ze iets door AI laten bouwen of ontwerpen door simpelweg een prompt op te geven, zonder dat zij zelf kennis hebben van de programmeertaal of software. Ze geven een opdracht, testen wat en brengen het online (met alle gevolgen van dien).
+Daarnaast zie je de opkomst van het zogenaamde 'Vibe Coding'. Mensen laten iets door AI bouwen of ontwerpen door simpelweg een prompt in te voeren, zonder dat ze zelf enige kennis hebben van de programmeertaal of softwarearchitectuur. Ze geven een opdracht, testen vluchtig of het werkt en knallen het online – met alle [(beveiligings)gevolgen van dien](https://vibeappscanner.com/vibe-coding-data-breaches).
 
-Van deze manier van werken leer je niets en het kost heel veel tokens (en dus ook geld en rekenkracht). Het geeft wel een snelle kick van blijheid en tevredenheid, maar uiteindelijk ebt dat weer weg, net als bij sociale media. (sort term satisfaction)
+Deze werkwijze is een korte-termijnoplossing. (Junior) engineers leren hier niets van en de kosten voor het token-verbruik lopen razendsnel op. Het geeft een snelle kick en een gevoel van productiviteit, maar uiteindelijk ebt die tevredenheid snel weer weg, net als bij sociale media. Het is een vorm van _short-term satisfaction_.
 
-En wat gaat deze manier van werken betekenen voor mij als consultant? Worden wij straks vervangen door AI? Persoonlijk denk ik van niet. Ik vermoed (of hoop misschien) dat men er straks achter komt dat deze manier van werken veel tokens kost en dat er veel efficiënter gewerkt kan worden.
+En wat gaat deze manier van werken betekenen voor mij als consultant? Worden wij straks vervangen door AI? Je leest momenteel veel berichten over Amerikaanse bedrijven die werknemers vervangen door AI en junior engineers om zo de kosten te drukken en sneller resultaat te boeken. Denk aan voorbeelden zoals [Meta](https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html) en [Cloudflare](https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/), of – nog erger – bedrijven die hun personeel vooraf niet eens informeren over hun ontslag, zoals bij [Webflow](https://hoodline.com/2026/05/locked-out-before-logoff-webflow-s-sudden-sf-layoffs-jolt-tech-workers/).
 
-Tussen iemand met een achtergrond in programmeren en mijn buurvrouw die aan het 'vibe coden' is, zit een groot verschil. De professional zal beter en sneller tot een einddoel komen, omdat diegene de prompt directer kan formuleren en weet waar hij op moet letten. Hierdoor krijg je een beter eindresultaat dat op de lange termijn beter te onderhouden is.
+Persoonlijk denk ik dat we zo'n vaart niet zal lopen. Ik vermoed (of hoop) dat men er snel achter komt dat deze 'vibe coding'-methode bakken met geld kost aan tokens en dat écht vakmanschap vele malen efficiënter is.
 
-Als de kosten van een regel code drastisch zijn gedaald, dan is de waarde van de _juiste_ regel code juist drastisch gestegen. Ik vind het schrijven van code het leukste onderdeel van softwareontwikkeling; het lijkt me dan ook vreselijk om juist dat onderdeel volledig te automatiseren.
+Er zit namelijk een reusachtig verschil tussen een professional met een solide programmeerachtergrond en mijn buurvrouw die een middagje zit te 'vibe coden'. De professional komt sneller en gerichter tot de kern omdat hij de prompt directer kan formuleren en exact weet waar de addertjes onder het gras zitten. Het resultaat? Een superieur product dat ook op de lange termijn onderhoudbaar blijft.
 
-Daarbij zal iemand die net van school komt met een informatica-achtergrond wel twee keer achter de oren krabben of de tijd en energie die in de studie is gestoken wel verstandig is geweest. Ik zou momenteel niet graag in de schoenen willen staan van een pas afgestudeerde.
+Mitchell Hashimoto (voormalig CTO en oprichter van Hashicorp) legde dit onlangs perfect uit met een treffend voorbeeld:
 
-Hoe dan ook leven we in een heel spannende tijd en we gaan zien waar we over 5 tot 10 jaar staan.
+> I've got an agent in a loop optimizing a renderer with the goal to minimize frame times (and tests to measure). It got times down from 88ms to 2ms and allocations down from ~150K to 500. Sounds good, right? Wrong. This is exactly why agent psychosis is a big fucking problem.
+>
+> As an experiment, I rewrote the Ghostty core render state in Go, with access to identically laid out data structures as Ghostty and the exact same validation tests. I made a purposely naive renderer (simple, correct, but slow). 88ms per frame with 150,000 allocations (horrendous, lol)!
+>
+> I then kickstarted a Ralph loop to bring the frame times down. I told it it can't modify input data structures or the public API or tests (they're correct), but it can do anything else it wants. It got to work.
+>
+> It has worked for about 4 hours. I've spent around $350 on this experiment so far. The results?
+>
+> 88ms => 1.5ms
+> 150K allocs => ~500 allocs
+>
+> Incredible right? Nope.
+>
+> My hand-written renderer I ported has frame times (same benchmark) of ~20us (0.020ms) and 0 allocations in the update path.
+>
+> This is the problem with psychosis and lacking systems understanding. If you don't understand the system, you're going to accept that this is an incredible result. If you understand the system, you'll see better solutions immediately and can do roughly 75x better on throughput.
+>
+> The people who blindly trust agent output are in the former camp. They're sheeple, overdrinking from a fountain of mediocrity.
+>
+> Standard disclaimer: I use AI all the time. I like AI. The point I'm making is to not blindly accept results. Think. Analyze. Learn.
+>
+> [Mitchell Hashimoto on X](https://x.com/mitchellh/status/2060088112257372610)
+
+In het kort, als je de kennis niet heb en het systeem niet begrijpt, accepteer je dat dit een ongelooflijk resultaat is. Als je de kennis wel heb en het systeem begrijpt, zie je direct betere oplossingen en kun je de doorvoer ongeveer 75 keer verbeteren.
+
+Als de kosten van een willekeurige regel code drastisch dalen, stijgt de waarde van de juiste regel code juist exponentieel. Ik vind het schrijven van code zelf het allerleukste onderdeel van softwareontwikkeling; het lijkt me dan ook vreselijk als juist dat creatieve proces volledig geautomatiseerd wordt.
+
+Tegelijkertijd kan ik me goed voorstellen dat iemand die nu net van de data- of informaticaopleiding komt, zich wel twee keer achter de oren krabt of die studie en de investering wel waard is geweest. Ik zou momenteel niet graag in de schoenen staan van een afgestudeerde.
+
+Hoe dan ook leven we in een fascinerende, spannende tijd. De toekomst zal uitwijzen waar we over 5 tot 10 jaar staan.
