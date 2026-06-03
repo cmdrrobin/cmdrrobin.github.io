@@ -1,14 +1,15 @@
 ---
 author: Robin Gruyters
 pubDatetime: 2026-05-29T14:18:00+01:00
-modDatetime: 2026-06-03T14:27:31+01:00
+modDatetime: 2026-06-03T16:52:04+01:00
 title: Nieuw (AI) Tijdperk
 slug: nieuw-ai-tijdperk
 featured: true
 draft: false
 tags:
   - algemeen
-description: Al enige tijd ben ik aan het bedenken of ik hierover een blog moet gaan schrijven. We zitten er met z'n allen middenin en het verandert (bijna) elke minuut. Toch denk ik dat dit de start is van een nieuwe ontwikkeling van de mensheid en de manier waarop wij tegen de wereld aankijken.
+  - ai
+description: Al enige tijd vraag ik me af of ik hierover een blog moet schrijven. We zitten er met z'n allen middenin en de ontwikkelingen veranderen bijna elke minuut. Toch denk ik dat dit de start is van een nieuwe fase in de evolutie van de mensheid en de manier waarop wij naar de wereld kijken.
 ---
 
 Al enige tijd vraag ik me af of ik hierover een blog moet schrijven. We zitten er met z'n allen middenin en de ontwikkelingen veranderen bijna elke minuut. Toch denk ik dat dit de start is van een nieuwe fase in de evolutie van de mensheid en de manier waarop wij naar de wereld kijken.
@@ -35,7 +36,7 @@ Persoonlijk denk ik dat we zo'n vaart niet zal lopen. Ik vermoed (of hoop) dat m
 
 Er zit namelijk een reusachtig verschil tussen een professional met een solide programmeerachtergrond en mijn buurvrouw die een middagje zit te 'vibe coden'. De professional komt sneller en gerichter tot de kern omdat hij de prompt directer kan formuleren en exact weet waar de addertjes onder het gras zitten. Het resultaat? Een superieur product dat ook op de lange termijn onderhoudbaar blijft.
 
-Mitchell Hashimoto (voormalig CTO en oprichter van Hashicorp) legde dit onlangs perfect uit met een treffend voorbeeld:
+Mitchell Hashimoto (voormalig oprichter en CEO/CTO van Hashicorp) legde dit onlangs perfect uit met een treffend voorbeeld:
 
 > I've got an agent in a loop optimizing a renderer with the goal to minimize frame times (and tests to measure). It got times down from 88ms to 2ms and allocations down from ~150K to 500. Sounds good, right? Wrong. This is exactly why agent psychosis is a big fucking problem.
 >
@@ -63,6 +64,12 @@ Mitchell Hashimoto (voormalig CTO en oprichter van Hashicorp) legde dit onlangs 
 In het kort, als je de kennis niet heb en het systeem niet begrijpt, accepteer je dat dit een ongelooflijk resultaat is. Als je de kennis wel heb en het systeem begrijpt, zie je direct betere oplossingen en kun je de doorvoer ongeveer 75 keer verbeteren.
 
 Als de kosten van een willekeurige regel code drastisch dalen, stijgt de waarde van de juiste regel code juist exponentieel. Ik vind het schrijven van code zelf het allerleukste onderdeel van softwareontwikkeling; het lijkt me dan ook vreselijk als juist dat creatieve proces volledig geautomatiseerd wordt.
+
+Een mooie quote uit "The Eternal Sloptember" bericht van George Hotz:
+
+> I’m calling it now, the adoption of AI agents into software development will be one of the most costly mistakes in the field’s history. Agents cannot program, and it’s taking longer and longer to realize that they can’t. They are a highly sophisticated statistical model designed to mimic the distribution of programming. The output is broken, but in a way that’s getting harder and harder to detect. Which is exactly what you’d expect from an increasingly accurate statistical model.
+>
+> [The Eternal Sloptember](https://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html) - George Hotz
 
 Tegelijkertijd kan ik me goed voorstellen dat iemand die nu net van de data- of informaticaopleiding komt, zich wel twee keer achter de oren krabt of die studie en de investering wel waard is geweest. Ik zou momenteel niet graag in de schoenen staan van een afgestudeerde.
 
