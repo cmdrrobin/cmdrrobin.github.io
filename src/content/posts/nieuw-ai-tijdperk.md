@@ -1,7 +1,7 @@
 ---
 author: Robin Gruyters
 pubDatetime: 2026-05-29T14:18:00+01:00
-modDatetime: 2026-06-03T16:52:04+01:00
+modDatetime: 2026-06-10T19:40:13+01:00
 title: Nieuw (AI) Tijdperk
 slug: nieuw-ai-tijdperk
 featured: true
@@ -74,3 +74,17 @@ Een mooie quote uit "The Eternal Sloptember" bericht van George Hotz:
 Tegelijkertijd kan ik me goed voorstellen dat iemand die nu net van de data- of informaticaopleiding komt, zich wel twee keer achter de oren krabt of die studie en de investering wel waard is geweest. Ik zou momenteel niet graag in de schoenen staan van een afgestudeerde.
 
 Hoe dan ook leven we in een fascinerende, spannende tijd. De toekomst zal uitwijzen waar we over 5 tot 10 jaar staan.
+
+## UPDATE
+
+Blijkbaar beginnen steeds meer bedrijven achter te komen dat veel tokens ook gepaard gaat met hoge kosten.
+
+Zelfs Sam Altman van OpenAI geeft dit aan:
+
+> Sam Altman said AI budgeting has recently become a "huge issue" for some companies, something that "never came up" earlier this year.
+>
+> [Artikel](https://www.businessinsider.com/sam-altman-openai-top-token-spender-ai-costs-issue-2026-6) op [Business Insider](https://www.businessinsider.com)
+
+Zoals de Yubetuber The Primeagen ook al aangeeft: "Helaas heb ik gelijk".
+
+<div class="vid"><iframe width="560" height="315" src="https://www.youtube.com/embed/m-bT5v5Tm7w?si=9X4aWAFfCsjByBBC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
