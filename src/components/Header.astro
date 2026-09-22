@@ -6,6 +6,7 @@ import IconArchive from "@/assets/icons/IconArchive.svg";
 import IconSunHigh from "@/assets/icons/IconSunHigh.svg";
 import IconSearch from "@/assets/icons/IconSearch.svg";
 import IconMoon from "@/assets/icons/IconMoon.svg";
+import IconRss from "@/assets/icons/IconRss.svg";
 import IconX from "@/assets/icons/IconX.svg";
 import LinkButton from "./LinkButton.astro";
 import { stripBase, stripLocale } from "@/utils/withBase";
@@ -151,6 +152,18 @@ const isActive = (path: string) => {
             </li>
           )
         }
+        <li class="col-span-1 flex items-center justify-center">
+          <LinkButton
+            target="_blank"
+            href={`${import.meta.env.BASE_URL.replace(/\/?$/, "/")}rss.xml`}
+            class:list={["focus-outline relative size-8"]}
+            title={t.nav.rss}
+            aria-label={t.nav.rss}
+          >
+            <IconRss class="absolute top-1/2 left-1/2 size-6 -translate-x-1/2 -translate-y-1/2 rtl:-rotate-90" />
+            <span class="sr-only">{t.nav.rss}</span>
+          </LinkButton>
+        </li>
       </ul>
     </nav>
   </div>

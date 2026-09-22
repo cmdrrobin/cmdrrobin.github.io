@@ -8,6 +8,7 @@ export default {
     about: "Over",
     archives: "Archief",
     search: "Zoeken",
+    rss: "RSS Feed",
   },
   post: {
     publishedAt: "Gepubliceerd op",
